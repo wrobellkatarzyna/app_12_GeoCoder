@@ -21,7 +21,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Katrina\PycharmProjects\HomeTraining\app_12_GeoCoder\templates" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="app_12_GeoCoder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">

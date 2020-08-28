@@ -9,10 +9,6 @@ def index():
     return render_template("index.html")
 
 
-def file_to_string(filepath):
-    text = textract.process(filepath)
-    print (text)
-    return text
 
 @app.route("/success", methods=['POST'])
 def success():
@@ -25,11 +21,16 @@ def success():
         #data = pd.read_csv(file.name)
         #print(request.session['text'])
 
-        return render_template("index.html", btn="download.html")
+        return render_template("index.html", table="results.html", btn="download.html")
+
+@app.route("/results")
+def results():
+    pass
 
 @app.route("/download")
 def download():
     pass
+
 
 if __name__ == '__main__':
     app.debug = True

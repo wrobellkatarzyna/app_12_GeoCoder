@@ -1,0 +1,45 @@
+<!DOCTYPE>
+<html lang="en">
+<title>Super Geocoder</title>
+<head>
+    <link href="..\static\main.css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <h1>Super Geocoder</h1>
+    <h3>Please upload your csv file. The values containing addresses should be
+        in column named address or Address. </h3>
+    <div class="message">
+        {{text | safe}}
+    </div>
+    <form action="{{url_for('success')}}" method="POST"
+          enctype="multipart/form-data">
+        <input type="file" name="file">
+        <button type="submit"> Submit</button>
+    </form>
+    <!--        <input type="button" value="Haahaha" onclick='myfunction();'>-->
+    <div id="displaytable1" style="visibility: hidden">
+        <table id="displaytable" style="display: block; width: 100%"
+               cellpadding="1" cellspacing="0" border="3">
+            <!--     <table>-->
+            <tr>
+                <th>Firstname</th>
+                <th>Lastname</th>
+                <th>Age</th>
+            </tr>
+            <tr>
+                <td>Jill</td>
+                <td>Smith</td>
+                <td>50</td>
+            </tr>
+            <tr>
+                <td>Eve</td>
+                <td>Jackson</td>
+                <td>94</td>
+            </tr>
+        </table>
+    </div>
+    {% include [btn] ignore missing %}
+</div>
+</body>
+</html>

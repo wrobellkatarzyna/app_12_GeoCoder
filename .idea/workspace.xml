@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feb7e474-a2c3-4411-b547-dbf5ee0e3bde" name="Default Changelist" comment="" />
+    <list default="true" id="feb7e474-a2c3-4411-b547-dbf5ee0e3bde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_12_GeoCoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_12_GeoCoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_files/2016-05-28-14-36-19-014281.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sample_files/2016-05-28-14-36-19-014281.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_files/2016-05-28-14-40-17-833207.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sample_files/2016-05-28-14-40-17-833207.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_files/New Microsoft Excel Worksheet.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_files/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_files/uploaded sample.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/success.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded_2016-05-28-14-36-19-014281.csv" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,16 +23,23 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gaUkZEMnPv03ayCbpAr9oXoL6R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../app_11_DatabaseWebApp/app_11_DatabaseWebApp.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -67,25 +86,57 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598358556845" />
-    <state width="1344" height="166" key="GridCell.Tab.0.bottom" timestamp="1598605705997">
+    <state x="309" y="82" width="796" height="589" key="#xdebugger.evaluate" timestamp="1600681734836">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="166" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598605705997" />
-    <state width="1344" height="166" key="GridCell.Tab.0.center" timestamp="1598605705997">
+    <state x="309" y="82" width="796" height="589" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1600681734836" />
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1600683682097">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="166" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598605705997" />
-    <state width="1344" height="166" key="GridCell.Tab.0.left" timestamp="1598605705997">
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600683682097" />
+    <state width="1344" height="166" key="GridCell.Tab.0.bottom" timestamp="1600684971442">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="166" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598605705997" />
-    <state width="1344" height="166" key="GridCell.Tab.0.right" timestamp="1598605705997">
+    <state width="1344" height="166" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600684971442" />
+    <state width="1344" height="166" key="GridCell.Tab.0.center" timestamp="1600684971442">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="166" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598605705997" />
+    <state width="1344" height="166" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600684971442" />
+    <state width="1344" height="166" key="GridCell.Tab.0.left" timestamp="1600684971442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="166" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600684971442" />
+    <state width="1344" height="166" key="GridCell.Tab.0.right" timestamp="1600684971442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="166" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600684971442" />
+    <state width="1344" height="208" key="GridCell.Tab.1.bottom" timestamp="1600682759046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="208" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600682759046" />
+    <state width="1344" height="208" key="GridCell.Tab.1.center" timestamp="1600682759046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="208" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600682759046" />
+    <state width="1344" height="208" key="GridCell.Tab.1.left" timestamp="1600682759046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="208" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600682759046" />
+    <state width="1344" height="208" key="GridCell.Tab.1.right" timestamp="1600682759046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="208" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600682759046" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1598357354044">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598357354044" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1600679109844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1600679109844" />
+    <state x="390" y="97" width="585" height="534" key="find.popup" timestamp="1598619121054">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="97" width="585" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1598619121054" />
   </component>
 </project>

@@ -1,5 +1,10 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+.idea/
+.idea/vcs.xml
+.idea/workspace.xml
+
+
 *.py[cod]
 *$py.class
 

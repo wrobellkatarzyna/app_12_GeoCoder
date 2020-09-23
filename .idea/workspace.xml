@@ -2,17 +2,131 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="feb7e474-a2c3-4411-b547-dbf5ee0e3bde" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/css/util.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/Lato/Lato-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/Lato/Lato-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/Lato/Lato-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/Lato/Lato-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/Lato/Lato-Hairline.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/Lato/Lato-HairlineItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/Lato/Lato-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/Lato/Lato-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/Lato/Lato-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/Lato/Lato-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/Lato/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/OpenSans/OpenSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/OpenSans/OpenSans-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/OpenSans/OpenSans-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/OpenSans/OpenSans-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/OpenSans/OpenSans-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/OpenSans/OpenSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/OpenSans/OpenSans-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/OpenSans/OpenSans-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/OpenSans/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/OpenSans/OpenSans-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/OpenSans/OpenSans-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/Montserrat-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/montserrat/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/roboto/Roboto-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/roboto/Roboto-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/roboto/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/roboto/Roboto-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/roboto/Roboto-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/roboto/Roboto-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/fonts/roboto/Roboto-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/images/icons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/animate/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/js/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/bootstrap/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/jquery/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/perfect-scrollbar/perfect-scrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/perfect-scrollbar/perfect-scrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/select2/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/select2/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Table_Fixed_Column/vendor/select2/select2.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Your csv file.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app_12_GeoCoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_12_GeoCoder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample_files/2016-05-28-14-36-19-014281.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sample_files/2016-05-28-14-36-19-014281.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample_files/2016-05-28-14-40-17-833207.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sample_files/2016-05-28-14-40-17-833207.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample_files/New Microsoft Excel Worksheet.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample_files/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample_files/uploaded sample.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/success.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/success.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploaded_2016-05-28-14-36-19-014281.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,57 +200,68 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598358556845" />
-    <state x="309" y="82" width="796" height="589" key="#xdebugger.evaluate" timestamp="1600681734836">
+    <state x="105" y="95" width="796" height="589" key="#xdebugger.evaluate" timestamp="1600848357870">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="309" y="82" width="796" height="589" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1600681734836" />
+    <state x="105" y="95" width="796" height="589" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1600848357870" />
     <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1600683682097">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600683682097" />
-    <state width="1344" height="166" key="GridCell.Tab.0.bottom" timestamp="1600684971442">
+    <state width="1344" height="208" key="GridCell.Tab.0.bottom" timestamp="1600848857551">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="166" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600684971442" />
-    <state width="1344" height="166" key="GridCell.Tab.0.center" timestamp="1600684971442">
+    <state width="1344" height="208" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600848857551" />
+    <state width="1344" height="208" key="GridCell.Tab.0.center" timestamp="1600848857551">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="166" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600684971442" />
-    <state width="1344" height="166" key="GridCell.Tab.0.left" timestamp="1600684971442">
+    <state width="1344" height="208" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600848857551" />
+    <state width="1344" height="208" key="GridCell.Tab.0.left" timestamp="1600848857551">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="166" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600684971442" />
-    <state width="1344" height="166" key="GridCell.Tab.0.right" timestamp="1600684971442">
+    <state width="1344" height="208" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600848857551" />
+    <state width="1344" height="208" key="GridCell.Tab.0.right" timestamp="1600848857551">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="166" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600684971442" />
-    <state width="1344" height="208" key="GridCell.Tab.1.bottom" timestamp="1600682759046">
+    <state width="1344" height="208" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600848857551" />
+    <state width="1344" height="208" key="GridCell.Tab.1.bottom" timestamp="1600848868761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="208" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600682759046" />
-    <state width="1344" height="208" key="GridCell.Tab.1.center" timestamp="1600682759046">
+    <state width="1344" height="208" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600848868761" />
+    <state width="1344" height="208" key="GridCell.Tab.1.center" timestamp="1600848868761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="208" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600682759046" />
-    <state width="1344" height="208" key="GridCell.Tab.1.left" timestamp="1600682759046">
+    <state width="1344" height="208" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600848868761" />
+    <state width="1344" height="208" key="GridCell.Tab.1.left" timestamp="1600848868760">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="208" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600682759046" />
-    <state width="1344" height="208" key="GridCell.Tab.1.right" timestamp="1600682759046">
+    <state width="1344" height="208" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600848868760" />
+    <state width="1344" height="208" key="GridCell.Tab.1.right" timestamp="1600848868761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="208" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600682759046" />
+    <state width="1344" height="208" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600848868761" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1598357354044">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598357354044" />
-    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1600679109844">
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1600685990196">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1600679109844" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1600685990196" />
     <state x="390" y="97" width="585" height="534" key="find.popup" timestamp="1598619121054">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="390" y="97" width="585" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1598619121054" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app_12_GeoCoder.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -49,3 +49,19 @@ body,html {
     font-size: 15px;
     color: #ff9999;
 }
+
+
+.table {
+    font-family: Arial, sans-serif;
+    color: #DDCCEE;
+    text-align: center;
+}
+
+.table.center {
+    margin-left:auto;
+    margin-right:auto;
+  }
+
+.table {
+display: inline-block
+}

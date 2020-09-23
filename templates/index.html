@@ -14,12 +14,14 @@
     </div>
     <form action="{{url_for('success')}}" method="POST"
           enctype="multipart/form-data">
-        <input type="file" name="file">
+        <input type="file" accept=".csv" name="file">
         <button type="submit"> Submit</button>
     </form>
+    <div class="table">
     {% for table in tables %}
             {{ table|safe }}
     {% endfor %}
+    </div>
     {% include [btn] ignore missing %}
 </div>
 </body>
